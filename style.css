@@ -1,0 +1,29 @@
+body{
+  max-width: 350px;
+}
+
+h3{
+  margin: 0px;
+}
+
+.dot1, .dot2, .dot3 {
+  height: 15px;
+  width: 15px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.head{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: grey;
+  padding: 0px 10px;
+}
+.body{
+  padding-top: 15px;
+  padding-left: 10px;
+  margin: auto;
+  border: 1px solid grey;
+}
